@@ -1,0 +1,17 @@
+{
+  "name": "jd_custom_url_shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3",
+    "nanoid": "^5.0.6",
+    "nodemon": "^3.1.0"
+  }
+}
